@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
+        "projectName": "IdentifiableObjectTest",
+        "projectPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
+        "packagesPath": "C:\\Users\\liam1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObjectTest\\obj\\",
+=======
+    "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
+        "projectName": "IdentifiableObjectTest",
+        "projectPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
+        "packagesPath": "C:\\Users\\liam1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObjectTest\\obj\\",
+>>>>>>> 4a47229b098ea41eb3960175772ac33b3e7dc4cd
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\liam1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+<<<<<<< HEAD
+              "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj": {
+                "projectPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj"
+=======
+              "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObject\\IdentifiableObject.csproj": {
+                "projectPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObject\\IdentifiableObject.csproj"
+>>>>>>> 4a47229b098ea41eb3960175772ac33b3e7dc4cd
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+<<<<<<< HEAD
+    "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj",
+        "projectName": "IdentifiableObject",
+        "projectPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj",
+        "packagesPath": "C:\\Users\\liam1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObject\\obj\\",
+=======
+    "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObject\\IdentifiableObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObject\\IdentifiableObject.csproj",
+        "projectName": "IdentifiableObject",
+        "projectPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObject\\IdentifiableObject.csproj",
+        "packagesPath": "C:\\Users\\liam1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObject\\obj\\",
+>>>>>>> 4a47229b098ea41eb3960175772ac33b3e7dc4cd
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\liam1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
