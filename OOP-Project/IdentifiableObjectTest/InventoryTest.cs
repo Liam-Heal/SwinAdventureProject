@@ -1,42 +1,80 @@
-namespace SwinAdventure;
+using NUnit.Framework;
+using SwinAdventure;
 
-public class InventoryTest
+namespace SwinAdventure
 {
-    private Inventory inventory;
-
-    [SetUp]
-    public void SetUp()
+    public class InventoryTest
     {
+        private Inventory _inventory = null!;
+        private Item _sword = null!;
+        private Item _apple = null!;
 
-    }
+        [SetUp]
+        public void SetUp()
+        {
+            _inventory = new Inventory();
 
-    [Test]
-    public void TestFindItem()
-    {
+            _sword = new Item(
+                new string[] { "sword", "bronze" },
+                "bronze sword",
+                "A short sword cast from bronze"
+            );
 
-    }
+            _apple = new Item(
+                new string[] { "apple", "fruit" },
+                "apple",
+                "A shiny red apple"
+            );
 
-    [Test]
-    public void TestNoFindItem()
-    {
-        //use Assert.That(Inventory.HasItem("apple") is true/false)
-    }
+            // Put both in for most tests; individual tests can re-shape as needed
+            _inventory.Put(_sword);
+            _inventory.Put(_apple);
+        }
 
-    [Test]
-    public void TestFetchItem()
-    {
-
-    }
-
-    [Test]
-    public void TestTakeItem()
-    {
-
-    }
-    
         [Test]
-    public void TestItemList()
-    {
-        
+        public void TestFindItem()
+        {
+            Assert.That(_inventory.HasItem("sword"), Is.True);
+            // case-insensitive
+            Assert.That(_inventory.HasItem("BRONZE"), Is.True);  
+            Assert.That(_inventory.HasItem("fruit"), Is.True);
+        }
+
+        [Test]
+        public void TestNoItemFind()
+        {
+            Assert.That(_inventory.HasItem("shield"), Is.False);
+        }
+
+        [Test]
+        public void TestFetchItem()
+        {
+            var fetched = _inventory.Fetch("sword");
+            // same object instance
+            Assert.That(fetched, Is.SameAs(_sword));     
+            // fetch does NOT remove      
+            Assert.That(_inventory.HasItem("sword"), Is.True); 
+        }
+
+        [Test]
+        public void TestTakeItem()
+        {
+            var taken = _inventory.Take("apple");
+            // removed item returned
+            Assert.That(taken, Is.SameAs(_apple));         
+            // removed from inventory    
+            Assert.That(_inventory.HasItem("apple"), Is.False); 
+        }
+
+        [Test]
+        public void TestItemList()
+        {
+            // Build the exact expected list based on current inventory order (_sword then _apple)
+            string expected =
+                "\t" + _sword.ShortDescription + "\n" +
+                "\t" + _apple.ShortDescription + "\n";
+
+            Assert.That(_inventory.ItemList, Is.EqualTo(expected));
+        }
     }
 }

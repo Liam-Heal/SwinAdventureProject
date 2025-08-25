@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "cRQ9IuvT8hA=",
+  "dgSpecHash": "ceGkTHGcTng=",
   "success": true,
-  "projectFilePath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
-=======
-  "dgSpecHash": "M+zrH/O49dQ=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
->>>>>>> 4a47229b098ea41eb3960175772ac33b3e7dc4cd
+  "projectFilePath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-4_Part2\\OOP-Project\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liam1\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\liam1\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

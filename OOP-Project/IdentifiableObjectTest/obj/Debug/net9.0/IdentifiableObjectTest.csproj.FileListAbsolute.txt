@@ -1,430 +1,107 @@
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\.msCoverageSourceRootsMapping_IdentifiableObjectTest
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\CoverletSourceRootsMapping_IdentifiableObjectTest
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\testhost.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.deps.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.runtimeconfig.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.exe
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\testhost.exe
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.api.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.core.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\testcentric.engine.metadata.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.deps.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.runtimeconfig.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.legacy.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.AssemblyReference.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfoInputs.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfo.cs
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.CoreCompileInputs.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\Identifi.689C5CFE.Up2Date
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\refint\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.genruntimeconfig.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\ref\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\.msCoverageSourceRootsMapping_IdentifiableObjectTest
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\CoverletSourceRootsMapping_IdentifiableObjectTest
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\testhost.exe
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\testhost.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.api.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.core.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\testcentric.engine.metadata.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.deps.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.runtimeconfig.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.exe
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.deps.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.runtimeconfig.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.legacy.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.AssemblyReference.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfoInputs.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfo.cs
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.CoreCompileInputs.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.sourcelink.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\Identifi.689C5CFE.Up2Date
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\refint\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.genruntimeconfig.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Part2\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\ref\IdentifiableObjectTest.dll
-<<<<<<< HEAD
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\refint\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\.msCoverageSourceRootsMapping_IdentifiableObjectTest
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\CoverletSourceRootsMapping_IdentifiableObjectTest
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.AssemblyReference.cache
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfoInputs.cache
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfo.cs
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.CoreCompileInputs.cache
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.sourcelink.json
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\testhost.exe
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\testhost.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.api.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.core.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\testcentric.engine.metadata.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.deps.json
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.runtimeconfig.json
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.exe
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.deps.json
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.runtimeconfig.json
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.legacy.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.dll
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\Identifi.689C5CFE.Up2Date
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.genruntimeconfig.cache
-C:\Users\liam1\OneDrive\OOP\OOP-WEEK-4_PART2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\ref\IdentifiableObjectTest.dll
-=======
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\.msCoverageSourceRootsMapping_IdentifiableObjectTest
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\CoverletSourceRootsMapping_IdentifiableObjectTest
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\testhost.exe
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\testhost.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.api.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.core.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\testcentric.engine.metadata.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.deps.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.runtimeconfig.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.exe
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.deps.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.runtimeconfig.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.legacy.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.AssemblyReference.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfoInputs.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfo.cs
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.CoreCompileInputs.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.sourcelink.json
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\Identifi.689C5CFE.Up2Date
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\refint\IdentifiableObjectTest.dll
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.pdb
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.genruntimeconfig.cache
-C:\Users\liam1\OneDrive\OOP\OOP-Week-3_Verifcation Task\OOP-Week-3\IdentifiableObjectTest\obj\Debug\net9.0\ref\IdentifiableObjectTest.dll
->>>>>>> 4a47229b098ea41eb3960175772ac33b3e7dc4cd
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\.msCoverageSourceRootsMapping_IdentifiableObjectTest
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\CoverletSourceRootsMapping_IdentifiableObjectTest
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\testhost.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.deps.json
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.runtimeconfig.json
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.exe
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\testhost.exe
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.api.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.engine.core.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\testcentric.engine.metadata.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.deps.json
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.runtimeconfig.json
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObjectTest.pdb
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\nunit.framework.legacy.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\bin\Debug\net9.0\IdentifiableObject.pdb
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.AssemblyReference.cache
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfoInputs.cache
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.AssemblyInfo.cs
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.csproj.CoreCompileInputs.cache
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.sourcelink.json
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\Identifi.689C5CFE.Up2Date
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\refint\IdentifiableObjectTest.dll
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.pdb
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\IdentifiableObjectTest.genruntimeconfig.cache
+C:\Users\liam1\OneDrive\OOP\OOP-Week-4_Part2\OOP-Project\IdentifiableObjectTest\obj\Debug\net9.0\ref\IdentifiableObjectTest.dll

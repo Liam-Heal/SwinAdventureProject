@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "mcpAGV1gFlc=",
+  "dgSpecHash": "GVv7lA8yLok=",
   "success": true,
-  "projectFilePath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-WEEK-4_PART2\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj",
-=======
-  "dgSpecHash": "k7mZ/o5Awd4=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-3_Verifcation Task\\OOP-Week-3\\IdentifiableObject\\IdentifiableObject.csproj",
->>>>>>> 4a47229b098ea41eb3960175772ac33b3e7dc4cd
+  "projectFilePath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-4_Part2\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
