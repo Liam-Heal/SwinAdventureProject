@@ -67,6 +67,26 @@ namespace SwinAdventure
         }
 
         [Test]
+        public void TestRemoveItem()
+        {
+            // Inventory contains _sword and _apple from SetUp
+            bool removed = _inventory.RemoveItem(_sword);
+
+            Assert.That(removed, Is.True);
+
+            // Sword should no longer be present
+            Assert.That(_inventory.HasItem("sword"), Is.False);
+
+            // Apple should still be there, ensure that only sword was removed.
+            Assert.That(_inventory.HasItem("apple"), Is.True);
+
+            // Remove something that doesnt exist, test edge case to ensure no issues.
+            Item dummy = new Item(new string[] { "shield" }, "shield", "a sturdy shield");
+            Assert.That(_inventory.RemoveItem(dummy), Is.False);
+        }
+
+
+        [Test]
         public void TestItemList()
         {
             // Build the exact expected list based on current inventory order (_sword then _apple)

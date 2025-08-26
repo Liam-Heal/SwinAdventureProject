@@ -51,8 +51,11 @@ namespace SwinAdventure
             }
             return null;
         }
-
-        // ItemList: multi-line string, each line is tab-indented ShortDescription
+        public bool RemoveItem(Item itm)
+        {
+            // Try to remove the given object instance from the list, rather than removing based on ID like the "Take" method.
+            return _items.Remove(itm);
+        }
         public string ItemList
         {
             get
