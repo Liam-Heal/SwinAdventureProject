@@ -16,7 +16,7 @@ namespace SwinAdventure
         {
             foreach (Item i in _items)
             {
-                if (i.AreYou(id)) return true;   // AreYou already lowercases
+                if (i.AreYou(id)) return true;  
             }
             return false;
         }
