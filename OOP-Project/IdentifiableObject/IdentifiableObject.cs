@@ -26,7 +26,7 @@ namespace SwinAdventure
             }
         }
 
-        // Block duplicates (case-insensitive)
+        // Block duplicates
         public void AddIdentifier(string id)
         {
             string key = id.ToLower();

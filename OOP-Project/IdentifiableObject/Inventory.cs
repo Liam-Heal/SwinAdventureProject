@@ -16,18 +16,18 @@ namespace SwinAdventure
         {
             foreach (Item i in _items)
             {
-                if (i.AreYou(id)) return true;  
+                if (i.AreYou(id)) return true;
             }
             return false;
         }
 
-        // Put: add an item to the inventory
+        // add an item to the inventory
         public void Put(Item itm)
         {
             _items.Add(itm);
         }
 
-        // Fetch: locate but DO NOT remove. Return the item or null if not found.
+        //locate but DOnt remove
         public Item? Fetch(string id)
         {
             foreach (Item i in _items)
@@ -70,5 +70,16 @@ namespace SwinAdventure
                 return lines.ToString();
             }
         }
+        public string ItemListCsv
+        {
+            get
+            {
+                var parts = new List<string>();
+                foreach (Item i in _items)
+                    parts.Add(i.ShortDescription);
+                return string.Join(",", parts);
+            }
+        }
+
     }
 }

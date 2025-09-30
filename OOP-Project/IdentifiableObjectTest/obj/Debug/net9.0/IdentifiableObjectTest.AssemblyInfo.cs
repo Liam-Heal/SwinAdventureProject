@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentifiableObjectTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f16c9ab9c04fe426d86a895ee1591346879d1afe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833559494f55c94e99f496a240f18c8a81225d9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentifiableObjectTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentifiableObjectTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

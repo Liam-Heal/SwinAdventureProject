@@ -5,7 +5,6 @@ namespace SwinAdventure
         public Item(string[] idents, string name, string desc)
             : base(idents, name, desc) { }
 
-        // For the verification test (kept from your earlier work)
         public int GetIdentifierCount() => IdentifierCount;
     }
 }

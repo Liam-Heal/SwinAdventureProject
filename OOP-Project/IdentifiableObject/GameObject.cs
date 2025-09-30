@@ -1,30 +1,34 @@
-using System;
+using System.IO;
 
 namespace SwinAdventure
 {
-    // <<abstract>> GameObject : "anything" the player can interact with
-    // Inherits identifiers so every GameObject is identifiable.
     public abstract class GameObject : IdentifiableObject
     {
         protected string _name;
         protected string _description;
 
-        // + GameObject(string[] ids, string name, string desc)
-        protected GameObject(string[] ids, string name, string desc)
-            : base(ids)
+        protected GameObject(string[] ids, string name, string desc) : base(ids)
         {
             _name = name;
             _description = desc;
         }
 
-        // + Name : string <<readonly, property>>
         public string Name => _name;
-
-        // + ShortDescription : string <<readonly, property>>
-        // "a {name} ({first id})"
         public string ShortDescription => $"a {Name} ({FirstId})";
 
-        // By default just returns the longer textual description; child classes may extend.
         public virtual string LongDescription => _description;
+        public virtual string FullDescription => LongDescription;
+
+        public virtual void SaveTo(StreamWriter writer)
+        {
+            writer.WriteLine(_name);
+            writer.WriteLine(_description);
+        }
+
+        public virtual void LoadFrom(StreamReader reader)
+        {
+            _name = reader.ReadLine() ?? "";
+            _description = reader.ReadLine() ?? "";
+        }
     }
 }
