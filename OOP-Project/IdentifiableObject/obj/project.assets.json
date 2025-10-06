@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-4_Part2\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj",
+      "projectUniqueName": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-8\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj",
       "projectName": "IdentifiableObject",
-      "projectPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-4_Part2\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj",
+      "projectPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-8\\OOP-Project\\IdentifiableObject\\IdentifiableObject.csproj",
       "packagesPath": "C:\\Users\\liam1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-4_Part2\\OOP-Project\\IdentifiableObject\\obj\\",
+      "outputPath": "C:\\Users\\liam1\\OneDrive\\OOP\\OOP-Week-8\\OOP-Project\\IdentifiableObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\liam1\\AppData\\Roaming\\NuGet\\NuGet.Config"

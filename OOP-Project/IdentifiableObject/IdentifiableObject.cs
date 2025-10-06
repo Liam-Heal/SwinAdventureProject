@@ -46,7 +46,7 @@ namespace SwinAdventure
         {
             if (pin == "3500")
             {
-                _identifiers[0] = "Class tuesday afternoon";
+                _identifiers[0] = "class tuesday afternoon";
             }
         }
         protected int IdentifierCount => _identifiers.Count;

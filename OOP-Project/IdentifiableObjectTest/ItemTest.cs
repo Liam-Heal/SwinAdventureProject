@@ -39,6 +39,6 @@ public class ItemTest
     public void TestPrivilegeEscalation()
     {
         sword.PrivilegeEscalation("3500");
-        Assert.That(sword.FirstId, Is.EqualTo("Class tuesday afternoon"));
+        Assert.That(sword.FirstId, Is.EqualTo("class tuesday afternoon"));
     }
 }

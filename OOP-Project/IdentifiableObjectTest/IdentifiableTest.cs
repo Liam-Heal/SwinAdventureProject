@@ -38,6 +38,6 @@ public class IdentifiableTest
     public void TestPrivilege()
     {
         id.PrivilegeEscalation("3500");
-        Assert.That((id.FirstId), Is.EqualTo("Class tuesday afternoon"));
+        Assert.That((id.FirstId), Is.EqualTo("class tuesday afternoon"));
     }
 }
