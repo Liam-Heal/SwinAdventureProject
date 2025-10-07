@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
-using SwinAdventure;
 using System.Collections.Generic;
+using SwinAdventure;
 
 namespace MainProgram
 {
@@ -9,6 +9,49 @@ namespace MainProgram
     {
         public static void Main(string[] args)
         {
+            int x = 5;
+            int y = 5;
+
+            // Create the players
+            List<Player> players = new List<Player>();
+            for (int i = 1; i <= x; i++)
+            {
+                Player p = new Player($"Player{i}", $"an explorer number {i}");
+                players.Add(p);
+            }
+
+            // Create the bags, if int is even then add a different identifier to alter the sorted container (Sorted no longer required)
+            List<Bag> bags = new List<Bag>();
+            for (int i = 1; i <= y; i++)
+            {
+                string[] ids;
+
+                if (i % 2 == 0)
+                {
+                    ids = new string[] { "bag", $"travel{i}", "otherID" };
+                }
+                else
+                {
+                    ids = new string[] { "bag", $"travel{i}" };
+                }
+
+                Bag b = new Bag(ids, $"Bag{i}", $"a bag used by explorer {i}");
+                bags.Add(b);
+            }
+            Console.WriteLine("Generated containers:");
+            foreach (var p in players)
+            {
+                Console.WriteLine($"Player: {p.Name} — {p.FullDescription}");
+            }
+            foreach (var b in bags)
+            {
+                Console.WriteLine($"Bag: {b.Name} — {b.FullDescription}");
+            }
+            Console.WriteLine();
+
+
+            Console.WriteLine();
+
             Player player1 = new Player("James", "an explorer");
 
             Item item1 = new Item(new string[] { "silver", "hat" }, "A Silver Hat", "A very shiny silver hat");

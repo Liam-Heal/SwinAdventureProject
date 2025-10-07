@@ -37,7 +37,7 @@ namespace SwinAdventure
             return null;
         }
 
-        // Take: remove and return the item with matching id (or null)
+        // Remove and return the item with matching id (or null)
         public Item? Take(string id)
         {
             for (int idx = 0; idx < _items.Count; idx++)

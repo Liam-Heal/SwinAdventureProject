@@ -8,7 +8,7 @@ namespace SwinAdventure
         protected string _description;
         protected string _studentID = "";
         protected string _studentName = "";
-
+        public new int IdentifierCount => base.IdentifierCount;
         public string Name => _name;
         public string ShortDescription => $"a {Name} ({FirstId})";
         public virtual string LongDescription => _description;
