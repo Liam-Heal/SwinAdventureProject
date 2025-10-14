@@ -1,0 +1,6 @@
+look-at-inventory
+look-at-torch
+look-at-hat
+look-at-silverhat
+look-at-silver
+look-at-map

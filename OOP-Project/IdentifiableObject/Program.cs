@@ -12,7 +12,6 @@ namespace MainProgram
             int x = 5;
             int y = 5;
 
-            // Create the players
             List<Player> players = new List<Player>();
             for (int i = 1; i <= x; i++)
             {
@@ -20,24 +19,22 @@ namespace MainProgram
                 players.Add(p);
             }
 
-            // Create the bags, if int is even then add a different identifier to alter the sorted container (Sorted no longer required)
             List<Bag> bags = new List<Bag>();
             for (int i = 1; i <= y; i++)
             {
                 string[] ids;
-
                 if (i % 2 == 0)
                 {
-                    ids = new string[] { "bag", $"travel{i}", "otherID" };
+                    ids = new string[] { "bag", $"travel{i}", "otherid" };
                 }
                 else
                 {
                     ids = new string[] { "bag", $"travel{i}" };
                 }
-
                 Bag b = new Bag(ids, $"Bag{i}", $"a bag used by explorer {i}");
                 bags.Add(b);
             }
+
             Console.WriteLine("Generated containers:");
             foreach (var p in players)
             {
@@ -47,9 +44,6 @@ namespace MainProgram
             {
                 Console.WriteLine($"Bag: {b.Name} — {b.FullDescription}");
             }
-            Console.WriteLine();
-
-
             Console.WriteLine();
 
             Player player1 = new Player("James", "an explorer");
@@ -68,6 +62,9 @@ namespace MainProgram
             Bag bag1 = new Bag(new string[] { "bag", "adventure" }, "Adventure Bag", "A large leather bag");
             bag1.Inventory.Put(new Item(new string[] { "map" }, "Map", "A map of the region"));
             bag1.Inventory.Put(new Item(new string[] { "rope" }, "Rope", "A long sturdy rope"));
+
+            // Put the bag into the player's inventory so you can "look-at-…-in-bag"
+            player1.Inventory.Put(bag1);
 
             List<IHaveInventory> myContainers = new List<IHaveInventory> { player1, bag1 };
 
@@ -88,6 +85,33 @@ namespace MainProgram
             using (StreamReader reader = new StreamReader("TestPlayer.txt"))
             {
                 player1.LoadFrom(reader);
+            }
+
+            // ------------ simple REPL to test LookCommand (hyphens or spaces) ------------
+            var look = new LookCommand(new[] { "look" });
+            Console.WriteLine();
+            Console.WriteLine("Type look commands (hyphens OR spaces). Examples:");
+            Console.WriteLine("  look at inventory");
+            Console.WriteLine("  look-at-torch");
+            Console.WriteLine("  look at map in bag");
+            Console.WriteLine("  look-at-map-in-bag");
+            Console.WriteLine("Type 'exit' to quit.");
+            while (true)
+            {
+                Console.Write("> ");
+                string? line = Console.ReadLine();
+                if (line == null) break;
+                line = line.Trim();
+                if (line.Equals("exit", StringComparison.OrdinalIgnoreCase)) break;
+                if (line.Length == 0) continue;
+
+                // Pass as a single token if user typed hyphens; otherwise split by spaces.
+                string[] argsForLook = line.Contains("-")
+                    ? new[] { line }
+                    : line.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+                string result = look.Execute(player1, argsForLook);
+                Console.WriteLine(result);
             }
         }
     }
