@@ -4,3 +4,5 @@ look-at-hat
 look-at-silverhat
 look-at-silver
 look-at-map
+look-at-hat
+look-at-hat

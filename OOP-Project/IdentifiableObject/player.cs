@@ -1,10 +1,13 @@
 using System.IO;
+using System.Security.Cryptography.X509Certificates;
 
 namespace SwinAdventure
 {
     public class Player : GameObject, IHaveInventory
     {
         private readonly Inventory _inventory;
+
+        private Location? _location;
 
         public Player(string name, string desc)
             : base(new string[] { "me", "inventory" }, name, desc)
@@ -16,10 +19,27 @@ namespace SwinAdventure
 
         public Inventory Inventory => _inventory;
 
+        public Location Location
+        {
+            get { return _location; }
+            set { _location = value; }
+        }
+
         public GameObject? Locate(string id)
         {
-            if (AreYou(id)) return this;
-            return _inventory.Fetch(id);
+            if (AreYou(id))
+            {
+                return this;
+            }
+            else
+            {
+                Item obj = Inventory.Fetch(id);
+                if (obj == null && Location != null)
+                {
+                    return Location.Locate(id);
+                }
+                return obj;
+            }
         }
 
         public override string FullDescription

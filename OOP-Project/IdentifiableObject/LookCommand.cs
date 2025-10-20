@@ -9,29 +9,84 @@ namespace SwinAdventure
 
         public override string Execute(Player p, string[] text)
         {
-            string raw = (text.Length == 1) ? text[0] : string.Join("-", text);
+            string raw;
+            if (text.Length == 1)
+            {
+                // Use the single string as-is
+                raw = text[0];
+            }
+            else
+            {
+                // Join all the words with hyphens
+                raw = string.Join("-", text);
+            }
+
             string[] parts = raw.Split('-', StringSplitOptions.RemoveEmptyEntries);
+
+            // NEW: single-word "look" shows the player's current location
+            if (parts.Length == 1)
+            {
+                if (parts[0].ToLower() == "look")
+                {
+                    if (p.Location != null)
+                    {
+                        return p.Location.FullDescription;
+                    }
+                    else
+                    {
+                        return "You are nowhere.";
+                    }
+                }
+                else
+                {
+                    return "Error in look input";
+                }
+            }
 
             IHaveInventory? container = p;
 
             if (parts.Length != 3 && parts.Length != 5)
+            {
                 return "I don't know how to look like that";
+            }
 
             if (parts[0].ToLower() != "look")
+            {
                 return "Error in look input";
+            }
 
             if (parts[1].ToLower() != "at")
+            {
                 return "What do you want to look at?";
+            }
 
             if (parts.Length == 5)
             {
                 if (parts[3].ToLower() != "in")
+                {
                     return "What do you want to look in?";
+                }
 
                 string containerId = parts[4].ToLower();
-                container = FetchContainer(p, containerId);
+
+                // Allow location aliases as a container
+                if (containerId == "location" || containerId == "here")
+                {
+                    container = p.Location;
+                }
+                else if (p.Location != null && p.Location.AreYou(containerId))
+                {
+                    container = p.Location;
+                }
+                else
+                {
+                    container = FetchContainer(p, containerId);
+                }
+
                 if (container == null)
+                {
                     return $"I cannot find the {containerId}";
+                }
             }
 
             string thingId = parts[2].ToLower();
@@ -77,7 +132,10 @@ namespace SwinAdventure
         private IHaveInventory? FetchContainer(Player p, string containerId)
         {
             GameObject? obj = p.Locate(containerId);
-            if (obj == null) return null;
+            if (obj == null)
+            {
+                return null;
+            }
             return obj as IHaveInventory;
         }
 
@@ -87,7 +145,9 @@ namespace SwinAdventure
             if (found == null)
             {
                 if (includeContainerName)
+                {
                     return $"I cannot find the {thingId} in the {container.Name}";
+                }
                 return $"I cannot find the {thingId}";
             }
             return found.FullDescription;
@@ -106,9 +166,13 @@ namespace SwinAdventure
         private string NormalizeLook(string[] parts)
         {
             if (parts.Length == 3)
+            {
                 return $"look-at-{parts[2].ToLower()}";
+            }
             else
+            {
                 return $"look-at-{parts[2].ToLower()}-in-{parts[4].ToLower()}";
+            }
         }
     }
 }
